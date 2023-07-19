@@ -1,6 +1,6 @@
 # Hello there! 👋 My name is Daniel
 
-# 💫 About Me:
+# 💫 About Me
 I am currently a fourth-year student pursuing a Bachelor's degree in Computer Science and Technologies.<br><br>As I progressed in my academic journey, I found my true calling in Front-End development. I embarked on an exciting adventure with HTML5, CSS3, and JavaScript, where I learned to craft visually appealing and interactive web experiences. Building on this foundation, I honed my skills and ventured into more advanced technologies.<br><br>One of my major milestones was learning ReactJS. A powerful and versatile front-end library. Within ReactJS, I delved into the intricacies of Single-Page Applications (SPAs), where I learned to create seamless user experiences through React routing. Furthermore, I harnessed the potential of React Redux, enabling me to manage state effectively and build scalable applications.<br><br>I also explored the world of server-side rendering with Next.js, understanding how to optimize performance and deliver dynamic content for modern web applications. This knowledge opened up a world of possibilities and inspired me to pursue even more ambitious projects.
 
 # 💻 Tech Stack:
