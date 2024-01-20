@@ -13,14 +13,16 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HeadlessUI](https://img.shields.io/badge/headless--ui-7064F9.svg?style=for-the-badge&logo=headless-ui&logoColor=66E3FF)
 ![Prisma](https://img.shields.io/badge/prisma-149e99.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 ### 📈 Have basic experience with:
 
-![Node.js](https://img.shields.io/badge/node.js-3c873a.svg?style=for-the-badge&logo=node.js&logoColor=00ED64)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🌱 At present gaining new knowledge in
 
@@ -33,9 +35,8 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
 > - react-router
 > - date-fns
 > - day.js
+> - recharts
 > - sonner
 > - notistack
 > - material-ui
 > - react-bootstrap
-> - headlessui-react
-> - styled-components
