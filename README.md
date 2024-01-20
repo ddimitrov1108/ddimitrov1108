@@ -17,7 +17,7 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
   
 ### 📈 Have basic experience with:
 
-![Node.js](https://img.shields.io/badge/node.js-00684A.svg?style=for-the-badge&logo=node.js&logoColor=00ED64)
+![Node.js](https://img.shields.io/badge/node.js-3c873a.svg?style=for-the-badge&logo=node.js&logoColor=00ED64)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDb](https://img.shields.io/badge/mongodb-00684A.svg?style=for-the-badge&logo=mongodb&logoColor=#00ED64)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
