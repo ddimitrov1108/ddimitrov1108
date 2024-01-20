@@ -17,7 +17,6 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
   
 ### 📈 Have basic experience with:
 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -40,3 +39,4 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
 > - notistack
 > - material-ui
 > - react-bootstrap
+> - styled-components
