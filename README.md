@@ -8,18 +8,18 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
 
 ### 🌱 At present gaining new knowledge in
 
-- Next.js
-- Typescript
-- StyleX.js
+> - Next.js
+> - Typescript
+> - StyleX.js
 
 ### 🔍 Explored libraries
 
-- react-router
-- date-fns
-- day.js
-- sonner
-- notistack
-- material-ui
-- react-bootstrap
-- headlessui-react
-- styled-components
+> - react-router
+> - date-fns
+> - day.js
+> - sonner
+> - notistack
+> - material-ui
+> - react-bootstrap
+> - headlessui-react
+> - styled-components
