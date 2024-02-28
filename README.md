@@ -1,7 +1,7 @@
-# Hello there! 👋 My name is Daniel
+<!---# Hello there! 👋 My name is Daniel
 
-### 💫 About Me
-As a fifth-year Computer Science student, I've honed my focus on Front-End development, excelling in HTML5, CSS3, and JavaScript. My passion lies in creating visually engaging and interactive web experiences. I've explored advanced technologies like ReactJS, mastering Single-Page Applications and React Redux for efficient state management. Additionally, I've delved into server-side rendering with Next.js, optimizing performance and delivering dynamic content for modern web applications. I'm driven by ambition and constantly seek out larger projects to challenge my skills.
+ ### 💫 About Me
+As a fifth-year Computer Science student, I've honed my focus on Front-End development, excelling in HTML5, CSS3, and JavaScript. My passion lies in creating visually engaging and interactive web experiences. I've explored advanced technologies like ReactJS, mastering Single-Page Applications and React Redux for efficient state management. Additionally, I've delved into server-side rendering with Next.js, optimizing performance and delivering dynamic content for modern web applications. I'm driven by ambition and constantly seek out larger projects to challenge my skills. -->
 
 
 ### 💻 Main Stack:
