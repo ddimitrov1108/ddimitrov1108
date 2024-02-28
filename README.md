@@ -28,7 +28,6 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
 
 > - Next.js
 > - Typescript
-> - StyleX.js
 
 ### 🔍 Explored libraries
 
