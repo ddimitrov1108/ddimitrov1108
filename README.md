@@ -22,20 +22,3 @@ As a fifth-year Computer Science student, I've honed my focus on Front-End devel
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### 🌱 At present gaining new knowledge in
-
-> - Next.js
-> - Typescript
-
-### 🔍 Explored libraries
-
-> - react-router
-> - date-fns
-> - day.js
-> - recharts
-> - sonner
-> - notistack
-> - material-ui
-> - react-bootstrap
-> - styled-components
